@@ -1,4 +1,2 @@
 .vs/
-git rm -r --cached .vs
-git add .gitignore
-git commit -m "Ignore .vs folder"
+
